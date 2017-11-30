@@ -4,7 +4,7 @@ A basic CRUD web application, complete with user authentication, node, express, 
 
 ## Authors
 
-* **Cory Revesz** - *Initial work* - [github](https://github.com/coryrevesz)
+* **Cory Revesz** - [github](https://github.com/coryrevesz)
 
 ## License
 
